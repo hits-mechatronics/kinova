@@ -1,0 +1,103 @@
+<Packages>
+    <ApplicationName>MICO 2 SDK</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>KinovaSDK</Name>
+        <Pixmap></Pixmap>
+        <Title>Kinova SDK</Title>
+        <Description>This is the software development kit provided by KINOVA that will help you during your development process.</Description>
+        <Version>1.4.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-03-03</InstallDate>
+        <Size>24897</Size>
+        <Dependencies></Dependencies>
+    </Package>
+    <Package>
+        <Name>KinovaSDK.Documentation</Name>
+        <Pixmap></Pixmap>
+        <Title>Kinova Documentation</Title>
+        <Description>Install Kinova documentation.</Description>
+        <Version>1.4.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-03-03</InstallDate>
+        <Size>20335699</Size>
+        <Dependencies></Dependencies>
+    </Package>
+    <Package>
+        <Name>KinovaSDK.Tools</Name>
+        <Pixmap></Pixmap>
+        <Title>Kinova tools</Title>
+        <Description>Install Kinova tools.</Description>
+        <Version>1.4.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-03-03</InstallDate>
+        <Size>40</Size>
+        <Dependencies></Dependencies>
+    </Package>
+    <Package>
+        <Name>KinovaSDK.API</Name>
+        <Pixmap></Pixmap>
+        <Title>Kinova API</Title>
+        <Description>Install Kinova API.</Description>
+        <Version>1.4.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-03-03</InstallDate>
+        <Size>5393331</Size>
+        <Dependencies></Dependencies>
+    </Package>
+    <Package>
+        <Name>KinovaSDK.Examples</Name>
+        <Pixmap></Pixmap>
+        <Title>Kinova project examples</Title>
+        <Description>Install Kinova project examples.</Description>
+        <Version>1.4.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-03-03</InstallDate>
+        <Size>40</Size>
+        <Dependencies></Dependencies>
+    </Package>
+    <Package>
+        <Name>KinovaSDK.GUI</Name>
+        <Pixmap></Pixmap>
+        <Title>Kinova GUI</Title>
+        <Description>Install Kinova SDK graphical user interface.</Description>
+        <Version>1.4.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-03-03</InstallDate>
+        <Size>137175207</Size>
+        <Dependencies></Dependencies>
+    </Package>
+    <Package>
+        <Name>KinovaSDK.Drivers</Name>
+        <Pixmap></Pixmap>
+        <Title>Kinova drivers</Title>
+        <Description>Install Kinova drivers.</Description>
+        <Version>1.4.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-03-03</InstallDate>
+        <Size>3264816</Size>
+        <Dependencies></Dependencies>
+    </Package>
+    <Package>
+        <Name>KinovaSDK.Tools.RobotConfig</Name>
+        <Pixmap></Pixmap>
+        <Title>Kinova Robot Configurations</Title>
+        <Description>Install Kinova robot configuration executables.</Description>
+        <Version>1.4.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-03-03</InstallDate>
+        <Size>10265048</Size>
+        <Dependencies></Dependencies>
+    </Package>
+    <Package>
+        <Name>KinovaSDK.Examples.cpp</Name>
+        <Pixmap></Pixmap>
+        <Title>Kinova SDK examples cpp</Title>
+        <Description>Install Kinova SDK examples source files.</Description>
+        <Version>1.4.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-03-03</InstallDate>
+        <Size>270941627</Size>
+        <Dependencies></Dependencies>
+    </Package>
+</Packages>

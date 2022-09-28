@@ -1,0 +1,94 @@
+************************************* Invoked: Sat Mar 3 10:25:45 2018
+[0] Arguments:  G:\KINOVA SDK MICO2_1.4.0\Windows\SDK_MICO2_x86.exe
+[586] Operations sanity check succeeded.
+[14050] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "174.25 GiB"
+[14050] Installation space required: "682.67 MiB" Temporary space required: "256.00 MiB" Local repository size: "0.00 bytes"
+[14670] backup  operation: Mkdir
+[14670] \t- arguments: C:/Program Files (x86)/MICO2SDK
+[14670] Done
+[14671] perform  operation: Mkdir
+[14671] \t- arguments: C:/Program Files (x86)/MICO2SDK
+[14671] Done
+[14672] Install size: 9 components
+[14740] backup KinovaSDK operation: Extract
+[14740] \t- arguments: installer://KinovaSDK/1.4.0content.7z, C:\\Program Files (x86)\\MICO2SDK
+[14740] Done
+[14740] perform KinovaSDK operation: Extract
+[14740] \t- arguments: installer://KinovaSDK/1.4.0content.7z, C:\\Program Files (x86)\\MICO2SDK
+[14744] Done
+[14744] backup KinovaSDK operation: License
+[14744] \t- arguments: 
+[14744] Done
+[14744] perform KinovaSDK operation: License
+[14744] \t- arguments: 
+[14745] Done
+[14746] backup KinovaSDK.Documentation operation: Extract
+[14746] \t- arguments: installer://KinovaSDK.Documentation/1.4.0Documentation.7z, C:\\Program Files (x86)\\MICO2SDK
+[14746] Done
+[14746] perform KinovaSDK.Documentation operation: Extract
+[14746] \t- arguments: installer://KinovaSDK.Documentation/1.4.0Documentation.7z, C:\\Program Files (x86)\\MICO2SDK
+[15702] Done
+[15702] backup KinovaSDK.Documentation operation: Extract
+[15702] \t- arguments: installer://KinovaSDK.Documentation/1.4.0Guides.7z, C:\\Program Files (x86)\\MICO2SDK
+[15702] Done
+[15702] perform KinovaSDK.Documentation operation: Extract
+[15702] \t- arguments: installer://KinovaSDK.Documentation/1.4.0Guides.7z, C:\\Program Files (x86)\\MICO2SDK
+[16840] Done
+[16841] backup KinovaSDK.Tools operation: Extract
+[16841] \t- arguments: installer://KinovaSDK.Tools/1.4.0RobotConfiguration.7z, C:\\Program Files (x86)\\MICO2SDK
+[16841] Done
+[16841] perform KinovaSDK.Tools operation: Extract
+[16841] \t- arguments: installer://KinovaSDK.Tools/1.4.0RobotConfiguration.7z, C:\\Program Files (x86)\\MICO2SDK
+[16843] Done
+[16844] backup KinovaSDK.API operation: Extract
+[16844] \t- arguments: installer://KinovaSDK.API/1.4.0API.7z, C:\\Program Files (x86)\\MICO2SDK
+[16844] Done
+[16844] perform KinovaSDK.API operation: Extract
+[16844] \t- arguments: installer://KinovaSDK.API/1.4.0API.7z, C:\\Program Files (x86)\\MICO2SDK
+[17052] Done
+[17054] backup KinovaSDK.Examples operation: Extract
+[17054] \t- arguments: installer://KinovaSDK.Examples/1.4.0Examples.7z, C:\\Program Files (x86)\\MICO2SDK
+[17054] Done
+[17054] perform KinovaSDK.Examples operation: Extract
+[17054] \t- arguments: installer://KinovaSDK.Examples/1.4.0Examples.7z, C:\\Program Files (x86)\\MICO2SDK
+[17057] Done
+[17063] backup KinovaSDK.GUI operation: Extract
+[17063] \t- arguments: installer://KinovaSDK.GUI/1.4.0GUI.7z, C:\\Program Files (x86)\\MICO2SDK
+[17063] Done
+[17063] perform KinovaSDK.GUI operation: Extract
+[17063] \t- arguments: installer://KinovaSDK.GUI/1.4.0GUI.7z, C:\\Program Files (x86)\\MICO2SDK
+[22446] Done
+[22446] backup KinovaSDK.GUI operation: CreateShortcut
+[22446] \t- arguments: C:\\Program Files (x86)\\MICO2SDK/GUI/DevelopmentCenter.exe, C:\\Users\\HP\\Desktop/DevelopmentCenter.lnk
+[22446] Done
+[22446] perform KinovaSDK.GUI operation: CreateShortcut
+[22446] \t- arguments: C:\\Program Files (x86)\\MICO2SDK/GUI/DevelopmentCenter.exe, C:\\Users\\HP\\Desktop/DevelopmentCenter.lnk
+[22934] Done
+[22934] backup KinovaSDK.GUI operation: CreateShortcut
+[22934] \t- arguments: C:\\Program Files (x86)\\MICO2SDK/GUI/TorqueConsole.exe, C:\\Users\\HP\\Desktop/TorqueConsole.lnk
+[22934] Done
+[22935] perform KinovaSDK.GUI operation: CreateShortcut
+[22935] \t- arguments: C:\\Program Files (x86)\\MICO2SDK/GUI/TorqueConsole.exe, C:\\Users\\HP\\Desktop/TorqueConsole.lnk
+[22970] Done
+[22973] backup KinovaSDK.Drivers operation: Extract
+[22973] \t- arguments: installer://KinovaSDK.Drivers/1.4.0Drivers.7z, C:\\Program Files (x86)\\MICO2SDK
+[22973] Done
+[22973] perform KinovaSDK.Drivers operation: Extract
+[22973] \t- arguments: installer://KinovaSDK.Drivers/1.4.0Drivers.7z, C:\\Program Files (x86)\\MICO2SDK
+[23192] Done
+[23193] backup KinovaSDK.Tools.RobotConfig operation: Extract
+[23193] \t- arguments: installer://KinovaSDK.Tools.RobotConfig/1.4.0RobotConfiguration.7z, C:\\Program Files (x86)\\MICO2SDK
+[23193] Done
+[23193] perform KinovaSDK.Tools.RobotConfig operation: Extract
+[23193] \t- arguments: installer://KinovaSDK.Tools.RobotConfig/1.4.0RobotConfiguration.7z, C:\\Program Files (x86)\\MICO2SDK
+[23343] Done
+[23344] backup KinovaSDK.Examples.cpp operation: Extract
+[23344] \t- arguments: installer://KinovaSDK.Examples.cpp/1.4.0Examples.7z, C:\\Program Files (x86)\\MICO2SDK
+[23344] Done
+[23344] perform KinovaSDK.Examples.cpp operation: Extract
+[23344] \t- arguments: installer://KinovaSDK.Examples.cpp/1.4.0Examples.7z, C:\\Program Files (x86)\\MICO2SDK
+[31227] Done
+[31237] Writing maintenance tool: "C:\\Program Files (x86)\\MICO2SDK/maintenancetool.exe.new"
+[31298] Wrote permissions for maintenance tool.
+[33322] Maintenance tool restart: false.
+[33324] SHOW FINISHED PAGE

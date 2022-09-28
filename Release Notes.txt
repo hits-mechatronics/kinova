@@ -1,0 +1,13 @@
+***********************************************************************************************************
+
+VERSION 1.4.0
+
+- Added ethernet capabilities 
+	- [NEW FILE] Kinova.API.EthCommlayer.so
+	- [NEW FILE] Kinova.API.EthCommlayer.h
+	- [NEW FILE] Kinova.API.EthCommandlayer.so
+	- [NEW FILE] Kinova.API.EthCommandlayer.h
+- Added 7 DOF capabilities in the DevelopmentCenter application.
+- Added 7 DOF capabilities in the TorqueConsole application.
+
+************************************************************************************************************
